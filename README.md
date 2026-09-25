@@ -1,123 +1,297 @@
-# Hi, I'm Collins Chukwu 👋
+<div align="center">
 
-### Aspiring Cybersecurity Professional | Security Analyst | Cybersecurity Enthusiast
+# 👋 Hi, I'm Collins Chukwu
 
-Welcome to my GitHub profile!
+### 🔐 Aspiring Cybersecurity Professional | Security Analyst | Cybersecurity Enthusiast
 
-I'm an aspiring cybersecurity professional passionate about understanding how systems work, identifying security weaknesses, investigating threats, and building practical security solutions.
+**Building practical cybersecurity skills through hands-on labs, security investigations, and continuous learning.**
 
-I'm currently developing my cybersecurity skills through hands-on labs, practical projects, and continuous learning.
+<p>
+  <a href="https://github.com/Legacy-Col">
+    <img src="https://img.shields.io/github/followers/Legacy-Col?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Legacy-Col">
+    <img src="https://img.shields.io/github/stars/Legacy-Col?affiliations=OWNER&style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-My goal is to build a strong foundation across cybersecurity while gaining practical experience in security operations, vulnerability management, identity and access management, and security governance.
+</div>
 
 ---
 
 ## 🛡️ About Me
 
-* 🔐 Currently learning and practicing cybersecurity.
-* 🖥️ Building hands-on security labs and practical projects.
-* 🔎 Interested in threat detection, security analysis, and vulnerability assessment.
-* 📊 Exploring SIEM tools, log analysis, and security monitoring.
-* 🤖 Interested in automation and AI applications in cybersecurity.
-* 📚 Currently preparing for CompTIA Security+.
-* 🎯 Open to entry-level cybersecurity opportunities and collaboration.
+I'm Collins, an aspiring cybersecurity professional focused on building practical skills across defensive security, security analysis, vulnerability assessment, and security operations.
+
+I learn by building and testing things in hands-on lab environments rather than relying solely on theory.
+
+My current work involves Windows and Linux security labs, SIEM investigation, endpoint telemetry, network reconnaissance, security documentation, and cybersecurity automation.
+
+I'm also expanding beyond SOC-focused work into broader areas of cybersecurity including **GRC, IAM, vulnerability management, threat intelligence, and security analysis.**
+
+> 🎯 **Goal:** Build demonstrable cybersecurity experience through practical projects and documentation while preparing for an entry-level cybersecurity role.
 
 ---
 
-## 🧰 Technical Skills & Tools
+# 🧰 Skills & Tools
 
-### Security Operations & Monitoring
+## 🔎 Security Operations & SIEM
 
-* Splunk Enterprise
-* Wazuh
-* Sysmon
-* Windows Event Logs
-* Security Information and Event Management (SIEM)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" height="55" />
+</p>
 
-### Networking & Security Assessment
+**Tools & Technologies**
 
-* Nmap
-* Wireshark
-* Kali Linux
-* Network reconnaissance
-* Vulnerability assessment
+`Splunk` `Wazuh` `Sysmon` `Windows Event Logs` `SIEM` `Log Analysis` `Security Monitoring`
 
-### Operating Systems & Virtualization
+---
 
-* Windows
-* Linux
-* VMware Workstation
+## 🌐 Network Security & Reconnaissance
 
-### Automation & Scripting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux" height="55" />
+</p>
 
-* PowerShell
-* Python
-* n8n
-* Security automation
+**Tools & Technologies**
 
-### Other Areas of Interest
+`Nmap` `Wireshark` `Kali Linux` `TCP/IP` `SMB` `Network Reconnaissance` `Port Scanning`
 
-* Identity and Access Management (IAM)
-* Governance, Risk, and Compliance (GRC)
-* Threat Intelligence
+---
+
+## 💻 Scripting & Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powershell,py" height="55" />
+</p>
+
+**Tools & Technologies**
+
+`PowerShell` `Python` `n8n` `Security Automation`
+
+---
+
+## 🖥️ Virtualization & Lab Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vmware,windows,linux" height="55" />
+</p>
+
+**Technologies**
+
+`VMware` `Windows 11` `Kali Linux` `NAT Networking` `Virtual Security Labs`
+
+---
+
+## 🧠 Cybersecurity Concepts
+
+<p align="center">
+
+![SIEM](https://img.shields.io/badge/SIEM-Security_Monitoring-111111?style=for-the-badge)
+![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-111111?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident-Response-111111?style=for-the-badge)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability-Management-111111?style=for-the-badge)
+![IAM](https://img.shields.io/badge/Identity-%26_Access_Management-111111?style=for-the-badge)
+![GRC](https://img.shields.io/badge/GRC-Governance_Risk_Compliance-111111?style=for-the-badge)
+
+</p>
+
+---
+
+# 🧪 Hands-On Cybersecurity Lab
+
+My cybersecurity lab is built around a virtualized environment where I can safely generate, observe, investigate, and document security events.
+
+### Current Lab Stack
+
+| Component            | Purpose                               |
+| -------------------- | ------------------------------------- |
+| 🪟 Windows 11 VM     | Endpoint / attack surface             |
+| 🐉 Kali Linux        | Security testing & reconnaissance     |
+| 🔍 Splunk Enterprise | SIEM, search & investigation          |
+| 🛡️ Wazuh            | Endpoint monitoring & alerting        |
+| 📊 Sysmon            | Windows endpoint telemetry            |
+| ⚙️ n8n               | Automation & workflow experimentation |
+| 🖥️ VMware           | Virtualization & lab networking       |
+
+---
+
+# 🚀 Featured Project
+
+## 🤖 AI-SOC Journey
+
+**Hands-on cybersecurity learning and project portfolio**
+
+My AI-SOC Journey repository documents practical cybersecurity work involving security monitoring, investigation, endpoint telemetry, detection concepts, automation, and documentation.
+
+### Current focus
+
+* 🔍 Security investigations
+* 📊 SIEM log analysis
+* 🛡️ Endpoint monitoring
+* 🪟 Windows security telemetry
+* 🔎 Threat hunting
+* ⚙️ Security automation
+* 🤖 AI-assisted security workflows
+* 📝 Professional security documentation
+
+**Tech Stack**
+
+`Splunk` `Wazuh` `Sysmon` `Windows 11` `Kali Linux` `PowerShell` `n8n`
+
+👉 **[View the AI-SOC Journey →](https://github.com/Legacy-Col/ai-soc-journey)**
+
+---
+
+# 🔬 Current Cybersecurity Projects
+
+### 🔍 Security Investigation Lab
+
+Hands-on investigation of Windows security events using endpoint telemetry and SIEM queries.
+
+**Focus:** Process creation, PowerShell activity, parent-child process relationships, file creation, and investigation documentation.
+
+`Splunk` `Sysmon` `Wazuh` `Windows`
+
+---
+
+### 🌐 Network Security Assessment Lab
+
+Practical network reconnaissance and service discovery within an isolated VMware lab environment.
+
+**Focus:** Port discovery, service enumeration, SMB analysis, network communication, and security assessment.
+
+`Kali Linux` `Nmap` `SMB` `VMware`
+
+---
+
+### ⚙️ Security Automation
+
+Exploring how automation can reduce repetitive security operations tasks and connect security tools into practical workflows.
+
+`n8n` `Automation` `Cybersecurity`
+
+---
+
+# 📚 Areas I'm Developing
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔵 Defensive Security
+
+* Security Monitoring
+* SIEM
+* Log Analysis
+* Threat Detection
+* Threat Hunting
 * Incident Response
-* Security Awareness
+* Endpoint Security
+
+</td>
+
+<td width="50%">
+
+### 🟣 Broader Cybersecurity
+
+* Vulnerability Management
+* Identity & Access Management
+* GRC
+* Threat Intelligence
+* Security Assessment
+* Security Documentation
+* Security Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+# 📖 Currently Learning
 
-### 🔍 AI-SOC Journey
+### 🎯 CompTIA Security+
 
-A practical cybersecurity learning journey focused on security monitoring, investigation, detection engineering, automation, and real-world security scenarios.
+Currently strengthening my foundational knowledge across:
 
-**Tools:** Splunk, Wazuh, Sysmon, Windows, n8n
-
-[View Project](https://github.com/Legacy-Col/ai-soc-journey)
-
-### 🛡️ Project 2: [Project Name]
-
-Briefly explain the security problem you investigated, the tools you used, and what you learned.
-
-**Tools:** [Tool 1], [Tool 2], [Tool 3]
-
-[View Project](PROJECT_LINK)
-
-### 🔐 Project 3: [Project Name]
-
-Briefly explain the purpose of the project, the security concepts involved, and the outcome.
-
-**Tools:** [Tool 1], [Tool 2], [Tool 3]
-
-[View Project](PROJECT_LINK)
+* Network Security
+* Threats & Vulnerabilities
+* Security Architecture
+* Identity & Access Management
+* Security Operations
+* Risk Management
+* Cryptography
 
 ---
 
-## 📜 Certifications & Learning
+# 🗂️ Documentation Philosophy
 
-* CompTIA Security+ — In Progress
-* Axia Africa — [Course/Certificate Name]
-* HSC Consult — [Course/Certificate Name]
-* [Other Relevant Certifications]
+> **If I can't support it with evidence, I don't claim it.**
 
----
+My projects are documented around what was actually observed in the lab.
 
-## 📈 My GitHub Activity
+Where possible, I include:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Legacy-Col\&show_icons=true\&theme=tokyonight)
+* 🔹 Commands used
+* 🔹 Queries used
+* 🔹 Screenshots
+* 🔹 Observed telemetry
+* 🔹 Investigation reasoning
+* 🔹 Findings
+* 🔹 Limitations
+* 🔹 Lessons learned
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Legacy-Col\&layout=compact\&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to learning, collaborating, and connecting with other cybersecurity professionals.
-
-* 💼 LinkedIn: [Chukwu Collins](https://www.linkedin.com/in/chukwu-collins-a19476287/)
-* 📧 Email: [Chukwu Collins](mailto:nwosucollins35@gmail.com)
-* 🐙 GitHub: [@Legacy-Col](https://github.com/Legacy-Col)
+The goal is to make each project understandable, reproducible, and useful as evidence of practical learning.
 
 ---
 
-*"Security is a continuous process of learning, testing, improving, and adapting."*
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Legacy-Col&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legacy-Col&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+# 🎯 Career Direction
+
+I'm currently building toward **entry-level cybersecurity opportunities**, particularly roles involving:
+
+`SOC` · `Security Analysis` · `GRC` · `IAM` · `Vulnerability Management` · `Security Operations` · `Junior Cybersecurity`
+
+I'm interested in opportunities where I can continue developing practical security skills while contributing to a security team.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Legacy-Col">
+<img src="https://img.shields.io/badge/GitHub-Legacy--Col-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔐 Learn. Build. Investigate. Secure.
+
+*Building practical cybersecurity skills one project at a time.*
+
+</div>
