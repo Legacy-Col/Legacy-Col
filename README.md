@@ -114,8 +114,8 @@ Briefly explain the purpose of the project, the security concepts involved, and 
 
 I'm always open to learning, collaborating, and connecting with other cybersecurity professionals.
 
-* 💼 LinkedIn: [Your LinkedIn Profile](LINKEDIN_URL)
-* 📧 Email: [Your Professional Email](mailto:YOUR_EMAIL)
+* 💼 LinkedIn: [Chukwu Collins](https://www.linkedin.com/in/chukwu-collins-a19476287/)
+* 📧 Email: [Chukwu Collins](mailto:nwosucollins35@gmail.com)
 * 🐙 GitHub: [@Legacy-Col](https://github.com/Legacy-Col)
 
 ---
