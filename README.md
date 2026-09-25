@@ -2,247 +2,346 @@
 
 # 👋 Hi, I'm Collins Chukwu
 
-### 🔐 Aspiring Cybersecurity Professional | Security Analyst | Cybersecurity Enthusiast
+### 🛡️ SOC Analyst | Security Monitoring | Threat Detection
 
-**Building practical cybersecurity skills through hands-on labs, security investigations, and continuous learning.**
+**Learning by building, investigating, detecting, and documenting real-world security scenarios.**
 
 <p>
-  <a href="https://github.com/Legacy-Col">
-    <img src="https://img.shields.io/github/followers/Legacy-Col?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Legacy-Col">
-    <img src="https://img.shields.io/github/stars/Legacy-Col?affiliations=OWNER&style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://img.shields.io/badge/SOC-Analyst-111111?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM-Splunk-111111?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Endpoint-Wazuh-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telemetry-Sysmon-111111?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## 🛡️ About Me
+# 🛡️ About Me
 
-I'm Collins, an aspiring cybersecurity professional focused on building practical skills across defensive security, security analysis, vulnerability assessment, and security operations.
+I'm Collins, an aspiring **SOC Analyst** building practical experience through hands-on security operations labs and investigation projects.
 
-I learn by building and testing things in hands-on lab environments rather than relying solely on theory.
+My SOC journey focuses on understanding how security events are generated, collected, detected, investigated, and documented.
 
-My current work involves Windows and Linux security labs, SIEM investigation, endpoint telemetry, network reconnaissance, security documentation, and cybersecurity automation.
+Rather than only learning security concepts theoretically, I build controlled lab scenarios and investigate the resulting telemetry using tools commonly found in security operations environments.
 
-I'm also expanding beyond SOC-focused work into broader areas of cybersecurity including **GRC, IAM, vulnerability management, threat intelligence, and security analysis.**
+### 🔎 My current SOC focus
 
-> 🎯 **Goal:** Build demonstrable cybersecurity experience through practical projects and documentation while preparing for an entry-level cybersecurity role.
+* Security Monitoring
+* SIEM Investigation
+* Log Analysis
+* Endpoint Telemetry
+* Threat Detection
+* Threat Hunting
+* Incident Investigation
+* PowerShell Investigation
+* Process Analysis
+* Network Security Monitoring
+* Security Automation
+* SOC Documentation
 
 ---
 
-# 🧰 Skills & Tools
+# 🧰 SOC Stack
 
-## 🔎 Security Operations & SIEM
+## 📊 SIEM & Security Monitoring
+
+<p align="center">   <img src="https://skillicons.dev/icons?i=windows,kali" height="55" /> </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux" height="55" />
+
+
+\
+
 </p>
 
-**Tools & Technologies**
-
-`Splunk` `Wazuh` `Sysmon` `Windows Event Logs` `SIEM` `Log Analysis` `Security Monitoring`
+**Used for:** log collection, security monitoring, alert investigation, event correlation, and security analysis.
 
 ---
 
-## 🌐 Network Security & Reconnaissance
+## 🖥️ Endpoint Telemetry
+
+<p align="center">
+
+\
+
+</p>
+
+**Telemetry I work with:**
+
+`Process Creation` · `Network Connections` · `File Creation` · `Registry Activity`
+
+---
+
+## 🔍 Investigation & Detection
+
+<p align="center">
+
+\
+
+</p>
+
+**Investigation techniques:**
+
+`Process Analysis` · `Parent/Child Relationships` · `Command-Line Analysis` · `Event Correlation` · `Timeline Analysis` · `IOC Investigation`
+
+---
+
+## 🌐 Network Investigation
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux" height="55" />
 </p>
 
-**Tools & Technologies**
-
-`Nmap` `Wireshark` `Kali Linux` `TCP/IP` `SMB` `Network Reconnaissance` `Port Scanning`
-
----
-
-## 💻 Scripting & Automation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=powershell,py" height="55" />
-</p>
-
-**Tools & Technologies**
-
-`PowerShell` `Python` `n8n` `Security Automation`
-
----
-
-## 🖥️ Virtualization & Lab Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vmware,windows,linux" height="55" />
-</p>
-
-**Technologies**
-
-`VMware` `Windows 11` `Kali Linux` `NAT Networking` `Virtual Security Labs`
-
----
-
-## 🧠 Cybersecurity Concepts
-
 <p align="center">
 
-![SIEM](https://img.shields.io/badge/SIEM-Security_Monitoring-111111?style=for-the-badge)
-![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-111111?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident-Response-111111?style=for-the-badge)
-![Vulnerability Management](https://img.shields.io/badge/Vulnerability-Management-111111?style=for-the-badge)
-![IAM](https://img.shields.io/badge/Identity-%26_Access_Management-111111?style=for-the-badge)
-![GRC](https://img.shields.io/badge/GRC-Governance_Risk_Compliance-111111?style=for-the-badge)
+\
 
 </p>
 
----
+**Focus:**
 
-# 🧪 Hands-On Cybersecurity Lab
-
-My cybersecurity lab is built around a virtualized environment where I can safely generate, observe, investigate, and document security events.
-
-### Current Lab Stack
-
-| Component            | Purpose                               |
-| -------------------- | ------------------------------------- |
-| 🪟 Windows 11 VM     | Endpoint / attack surface             |
-| 🐉 Kali Linux        | Security testing & reconnaissance     |
-| 🔍 Splunk Enterprise | SIEM, search & investigation          |
-| 🛡️ Wazuh            | Endpoint monitoring & alerting        |
-| 📊 Sysmon            | Windows endpoint telemetry            |
-| ⚙️ n8n               | Automation & workflow experimentation |
-| 🖥️ VMware           | Virtualization & lab networking       |
+`Network Reconnaissance` · `Port Discovery` · `Service Enumeration` · `SMB Analysis`
 
 ---
 
-# 🚀 Featured Project
+## ⚙️ SOC Automation
 
-## 🤖 AI-SOC Journey
+<p align="center">
 
-**Hands-on cybersecurity learning and project portfolio**
+</p>
 
-My AI-SOC Journey repository documents practical cybersecurity work involving security monitoring, investigation, endpoint telemetry, detection concepts, automation, and documentation.
+Exploring security automation and how repetitive SOC workflows can be connected and automated.
 
-### Current focus
+**Focus:**
 
-* 🔍 Security investigations
-* 📊 SIEM log analysis
-* 🛡️ Endpoint monitoring
-* 🪟 Windows security telemetry
-* 🔎 Threat hunting
-* ⚙️ Security automation
-* 🤖 AI-assisted security workflows
-* 📝 Professional security documentation
-
-**Tech Stack**
-
-`Splunk` `Wazuh` `Sysmon` `Windows 11` `Kali Linux` `PowerShell` `n8n`
-
-👉 **[View the AI-SOC Journey →](https://github.com/Legacy-Col/ai-soc-journey)**
+`Alert Automation` · `Workflow Automation` · `Security Integrations` · `AI-Assisted SOC Workflows`
 
 ---
 
-# 🔬 Current Cybersecurity Projects
+# 🧪 My SOC Lab
 
-### 🔍 Security Investigation Lab
+My SOC journey is built around a controlled virtual lab where I can generate security activity, collect telemetry, investigate events, and document findings.
 
-Hands-on investigation of Windows security events using endpoint telemetry and SIEM queries.
+```text
+                    ┌──────────────────────┐
+                    │      SOC Analyst     │
+                    │  Investigate & Hunt   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │        Splunk        │
+                    │   SIEM / Analysis    │
+                    └──────────┬───────────┘
+                               │
+                ┌──────────────┴──────────────┐
+                │                             │
+                ▼                             ▼
+        ┌──────────────┐             ┌──────────────┐
+        │    Wazuh     │             │    Sysmon    │
+        │  Monitoring  │             │  Telemetry   │
+        └──────┬───────┘             └──────┬───────┘
+               │                            │
+               └────────────┬───────────────┘
+                            ▼
+                    ┌──────────────┐
+                    │ Windows 11   │
+                    │   Endpoint   │
+                    └──────────────┘
 
-**Focus:** Process creation, PowerShell activity, parent-child process relationships, file creation, and investigation documentation.
+              Kali Linux → Security Testing
+```
 
-`Splunk` `Sysmon` `Wazuh` `Windows`
+### Lab Environment
 
----
-
-### 🌐 Network Security Assessment Lab
-
-Practical network reconnaissance and service discovery within an isolated VMware lab environment.
-
-**Focus:** Port discovery, service enumeration, SMB analysis, network communication, and security assessment.
-
-`Kali Linux` `Nmap` `SMB` `VMware`
-
----
-
-### ⚙️ Security Automation
-
-Exploring how automation can reduce repetitive security operations tasks and connect security tools into practical workflows.
-
-`n8n` `Automation` `Cybersecurity`
-
----
-
-# 📚 Areas I'm Developing
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔵 Defensive Security
-
-* Security Monitoring
-* SIEM
-* Log Analysis
-* Threat Detection
-* Threat Hunting
-* Incident Response
-* Endpoint Security
-
-</td>
-
-<td width="50%">
-
-### 🟣 Broader Cybersecurity
-
-* Vulnerability Management
-* Identity & Access Management
-* GRC
-* Threat Intelligence
-* Security Assessment
-* Security Documentation
-* Security Automation
-
-</td>
-</tr>
-</table>
+| Component            | SOC Role                          |
+| -------------------- | --------------------------------- |
+| 🪟 Windows 11        | Monitored endpoint                |
+| 🔍 Splunk Enterprise | SIEM & investigation              |
+| 🛡️ Wazuh            | Endpoint monitoring & alerting    |
+| 📊 Sysmon            | Detailed endpoint telemetry       |
+| 🐉 Kali Linux        | Security testing & reconnaissance |
+| ⚙️ n8n               | Security automation               |
+| 🖥️ VMware           | Virtualized lab environment       |
 
 ---
 
-# 📖 Currently Learning
+# 🚀 AI-SOC Journey
 
-### 🎯 CompTIA Security+
+## `ai-soc-journey`
 
-Currently strengthening my foundational knowledge across:
+My primary cybersecurity portfolio documenting my progression toward becoming a SOC Analyst.
 
-* Network Security
-* Threats & Vulnerabilities
-* Security Architecture
-* Identity & Access Management
-* Security Operations
-* Risk Management
-* Cryptography
+The repository contains hands-on projects involving:
+
+### 📊 Security Monitoring
+
+Collecting and analyzing endpoint and Windows security telemetry.
+
+### 🔎 Investigation
+
+Investigating suspicious activity using SIEM searches and endpoint data.
+
+### 🧠 Detection Engineering
+
+Developing queries and detection logic from observed security events.
+
+### 🕵️ Threat Hunting
+
+Searching telemetry for suspicious behaviors and indicators.
+
+### 🚨 Incident Response
+
+Following structured investigation workflows from alert → evidence → analysis → conclusion.
+
+### ⚙️ Automation
+
+Exploring how SOC processes can be automated using workflow automation and AI.
+
+### 📝 Documentation
+
+Documenting investigations, queries, observations, evidence, and conclusions.
+
+👉 **[Explore my AI-SOC Journey →](https://github.com/Legacy-Col/ai-soc-journey)**
 
 ---
 
-# 🗂️ Documentation Philosophy
+# 🔬 SOC Investigations
+
+## `INC-001` — Suspicious PowerShell Activity
+
+**Status:** Closed / Benign Lab Activity
+
+**Environment:** Windows 11
+
+**Tools:** Wazuh · Sysmon · Splunk
+
+### Investigation Focus
+
+* PowerShell process execution
+* Parent/child process relationships
+* Command-line analysis
+* Process IDs
+* Endpoint telemetry
+* Event correlation
+* Evidence-based investigation
+
+The investigation demonstrated the importance of validating suspicious-looking activity against available telemetry and surrounding context rather than treating an alert as malicious solely based on its appearance.
+
+---
+
+# 📚 SOC Learning Roadmap
+
+```text
+                    SOC ANALYST JOURNEY
+                           │
+                           ▼
+                 ┌──────────────────┐
+                 │ Security Basics  │
+                 └────────┬─────────┘
+                          ▼
+                 ┌──────────────────┐
+                 │   SIEM / Logs    │
+                 └────────┬─────────┘
+                          ▼
+                 ┌──────────────────┐
+                 │ Endpoint         │
+                 │ Telemetry        │
+                 └────────┬─────────┘
+                          ▼
+                 ┌──────────────────┐
+                 │ Investigation    │
+                 └────────┬─────────┘
+                          ▼
+                 ┌──────────────────┐
+                 │ Detection        │
+                 │ Engineering      │
+                 └────────┬─────────┘
+                          ▼
+                 ┌──────────────────┐
+                 │ Threat Hunting   │
+                 └────────┬─────────┘
+                          ▼
+                 ┌──────────────────┐
+                 │ Incident         │
+                 │ Response         │
+                 └────────┬─────────┘
+                          ▼
+                 ┌──────────────────┐
+                 │ Automation + AI  │
+                 └──────────────────┘
+```
+
+---
+
+# 📝 My Documentation Approach
 
 > **If I can't support it with evidence, I don't claim it.**
 
-My projects are documented around what was actually observed in the lab.
+Every investigation should answer:
 
-Where possible, I include:
+**1. What happened?**
 
-* 🔹 Commands used
-* 🔹 Queries used
+**2. What evidence was observed?**
+
+**3. Why was it suspicious?**
+
+**4. What additional evidence was investigated?**
+
+**5. What was the final assessment?**
+
+**6. What could be improved or investigated further?**
+
+Where possible, my projects include:
+
+* 🔹 SIEM queries
+* 🔹 Event IDs
+* 🔹 Telemetry
 * 🔹 Screenshots
-* 🔹 Observed telemetry
-* 🔹 Investigation reasoning
+* 🔹 Process information
+* 🔹 Network information
+* 🔹 Investigation timelines
+* 🔹 Evidence
 * 🔹 Findings
-* 🔹 Limitations
 * 🔹 Lessons learned
 
-The goal is to make each project understandable, reproducible, and useful as evidence of practical learning.
+---
+
+# 🎯 Current SOC Goals
+
+* [x] Build a Windows security lab
+* [x] Deploy Sysmon telemetry
+* [x] Deploy Wazuh monitoring
+* [x] Configure Splunk
+* [x] Learn SIEM investigation
+* [x] Investigate Windows processes
+* [x] Investigate PowerShell activity
+* [x] Practice network reconnaissance
+* [ ] Build more realistic attack scenarios
+* [ ] Develop detection rules
+* [ ] Map detections to MITRE ATT&CK
+* [ ] Build automated SOC workflows
+* [ ] Integrate AI into SOC workflows
+* [ ] Complete advanced investigation scenarios
+* [ ] Continue building a professional SOC portfolio
+
+---
+
+# 📜 Certifications & Learning
+
+### 🎓 Currently Preparing
+
+**CompTIA Security+**
+
+Focus areas include:
+
+`Threats` · `Vulnerabilities` · `Security Operations` · `Network Security` · `Identity` · `Risk Management` · `Security Architecture`
+
+### 📚 Completed Training
+
+* Axia Africa — Cybersecurity Training
+* HSC Consult — Cybersecurity Training
 
 ---
 
@@ -258,17 +357,7 @@ The goal is to make each project understandable, reproducible, and useful as evi
 
 ---
 
-# 🎯 Career Direction
-
-I'm currently building toward **entry-level cybersecurity opportunities**, particularly roles involving:
-
-`SOC` · `Security Analysis` · `GRC` · `IAM` · `Vulnerability Management` · `Security Operations` · `Junior Cybersecurity`
-
-I'm interested in opportunities where I can continue developing practical security skills while contributing to a security team.
-
----
-
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -290,8 +379,8 @@ I'm interested in opportunities where I can continue developing practical securi
 
 <div align="center">
 
-### 🔐 Learn. Build. Investigate. Secure.
+### 🛡️ Detect. Investigate. Respond. Automate.
 
-*Building practical cybersecurity skills one project at a time.*
+**Building my SOC skills one investigation at a time.**
 
 </div>
